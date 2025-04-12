@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kah Yong</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🔭 I’m currently working on [KitchenChaos](https://github.com/aiyayayah/KitchenChaos1.git)
+- 🔭 I’m currently working on [Metroidvania Inspired Game](https://github.com/aiyayayah/Metroidvania-Inspired-Game.git)
 
 - 🌱 I’m currently learning **Unity**
 
