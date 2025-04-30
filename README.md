@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kah Yong</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🔭 I’m currently working on [Metroidvania Inspired Game](https://github.com/aiyayayah/Metroidvania-Inspired-Game.git)
+- 🔭 I’m currently working on [Metroidvania Inspired Game](https://github.com/aiyayayah/Metroidvania-Inspired-Game.githttps://github.com/aiyayayah/Metroidvania-Inspired-Game.git)
 
 - 🌱 I’m currently learning **Unity**
 
@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiyayayah&show_icons=true&locale=en&layout=compact" alt="aiyayayah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyayayah&theme=dark" alt="aiyayayah" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
