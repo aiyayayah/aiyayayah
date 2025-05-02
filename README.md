@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyayayah&theme=dark" alt="aiyayayah" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aiyayayah)](https://github.com/aiyayayah/github-profile-trophy)
