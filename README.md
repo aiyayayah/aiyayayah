@@ -18,3 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiyayayah&show_icons=true&locale=en&layout=compact" alt="aiyayayah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyayayah&theme=dark" alt="aiyayayah" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiyayayah)](https://github.com/aiyayayah/github-profile-trophy)
