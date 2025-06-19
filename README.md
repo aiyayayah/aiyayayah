@@ -19,3 +19,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyayayah&theme=dark" alt="aiyayayah" /></p>
 
+<h3>📂 My Repositories</h3>
+| Project | Description | Tools | Link |
+|--------|-------------|--------|------|
+| 👾 Metroidvania Inspired Game | A Unity platformer with exploration and shooting elements. | Unity | [View Repo](https://github.com/aiyayayah/Metroidvania-Inspired-Game.git) |
+| 🐦 Flappy Bird Clone | A simple recreation of Flappy Bird showcasing physics and obstacle timing. | Unity  | [View Repo](https://github.com/aiyayayah/FlappyBird.git) |
+| 🦊 Fox In Jungle | A 20-second animated short featuring a fox in a jungle scene. | Blender | [View Repo](https://github.com/aiyayayah/Fox-In-Jungle.git) |
+| 🌴 Jungle Adventure | A 2D shooting platformer game | GDevelop | [View Repo](https://github.com/aiyayayah/Jungle-Adventure) |
+| ✨ Girl With A Pearl Earring | My first Blender project, recreating the famous artwork in 3D. | Blender | [View Repo](https://github.com/aiyayayah/Girl-With-A-Pearl-Earring.git) |
